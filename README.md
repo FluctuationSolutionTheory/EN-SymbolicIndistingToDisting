@@ -17,7 +17,7 @@ instead of being evaluated numerically. For more information, see our article, r
 
 ## Reference
 E.A. Ploetz, N.D. Smyers, and P.E. Smith, "Ion-Ion Association in Bulk Mixed Electrolytes Using Global and Local Electroneutrality Constraints"
-Journal of Physical Chemistry B, In Revision.
+Journal of Physical Chemistry B, 2025, 129, 4, 1387–1398. (Editors' Choice)
 
 ## Maintainer
 [@FluctuationSolutionTheory](https://github.com/FluctuationSolutionTheory)
